@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+__pycache__/
+audio_files/*
+client_secrets.json
+openai_key.txt
+transcriptions/*
