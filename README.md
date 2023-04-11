@@ -7,4 +7,4 @@
 
 ## Execution
 `pip install -r requirements.txt`
-`python transcribe.py <YouTube URL to Video>
+`python transcribe.py https://<YouTube URL to Video>`
